@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yueming Gao | 高越明
+# 👋 Hi, I'm Yueming Gao | Alina Gao | 高悦铭
 
 ### 🚀 Data Science Student @ UC San Diego
 
