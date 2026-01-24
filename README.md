@@ -36,4 +36,4 @@ I am a Junior Data Science student at **UCSD** with a strong foundation in stati
 
 [![Email](https://img.shields.io/badge/Email-gymgymgym888%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gymgymgym888@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-951--573--0959-34B7F1?style=flat&logo=whatsapp&logoColor=white)](tel:9515730959)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL) | 📧 [gymgymgym888@gmail.com](mailto:gymgymgym888@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
