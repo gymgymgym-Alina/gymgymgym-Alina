@@ -2,7 +2,7 @@
 
 ### 🚀 Data Science Student @ UC San Diego
 
-I am a Junior Data Science student at **UCSD** with a strong foundation in statistical modeling and a passion for building data-driven solutions. My experience ranges from **Business Intelligence** in tech centers to **Sustainability Data Analysis** in the energy sector.
+I am a Senior Data Science student at **UCSD** with a strong foundation in statistical modeling and a passion for building data-driven solutions. My experience ranges from **Business Intelligence** in tech centers to **Sustainability Data Analysis** in the energy sector.
 
 - 🎓 **Education:** B.S. in Data Science @ UCSD (Class of 2027)
 - 🛠️ **Current Focus:** Scalable Data Pipelines & Machine Learning Engineering
